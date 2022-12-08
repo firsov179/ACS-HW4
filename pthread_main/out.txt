@@ -1,0 +1,40 @@
+Frodo Baggins wants to sell the mushrooms for 16 gold.
+Celeborn wants to sell the mushrooms for 12 gold.
+Déagol wants to sell the Chocolate frog for 21 gold.
+Gandalf wants to sell the mushrooms for 33 gold.
+Bilbo Baggins wants to sell the medicine for 25 gold.
+Frodo Baggins withdrawn from sale mushrooms for 16 gold.
+Celeborn withdrawn from sale mushrooms for 12 gold.
+Déagol withdrawn from sale Chocolate frog for 21 gold.
+Déagol wants to sell the mushrooms for 47 gold.
+Aragorn wants to sell the Cloak for 9 gold.
+Dean Thomas wants to buy the Chocolate frog. He can not buy Chocolate frog.
+Ron Weasley wants to buy the medicine. He buys medicine from Bilbo Baggins by 25 gold.
+Albus Dumbledore wants to buy the Apple (poisoned). He can not buy Apple (poisoned).
+Cho Chang wants to buy the sword. He can not buy sword.
+Albus Dumbledore wants to buy the Cloak. He buys Cloak from Aragorn by 9 gold.
+Harry Potter wants to buy the Apple (poisoned). He can not buy Apple (poisoned).
+Cho Chang wants to buy the The Great Ring. He can not buy The Great Ring.
+Dean Thomas wants to buy the Apple (poisoned). He can not buy Apple (poisoned).
+Harry Potter wants to buy the mushrooms. He buys mushrooms from Gandalf by 33 gold.
+Bones Amelia wants to buy the The Great Ring. He can not buy The Great Ring.
+Ron Weasley wants to buy the mushrooms. He buys mushrooms from Gandalf by 33 gold.
+Ron Weasley wants to buy the mushrooms. He buys mushrooms from Gandalf by 33 gold.
+Aragorn withdrawn from sale Cloak for 9 gold.
+Something wrong! Déagol does not sell Chocolate frog for 21 gold.
+Albus Dumbledore wants to buy the Apple (poisoned). He can not buy Apple (poisoned).
+Aragorn wants to sell the The Great Ring for 6 gold.
+Cho Chang wants to buy the Apple (poisoned). He can not buy Apple (poisoned).
+Ron Weasley wants to buy the The Great Ring. He buys The Great Ring from Aragorn by 6 gold.
+Déagol withdrawn from sale mushrooms for 47 gold.
+Gandalf wants to sell the sword for 16 gold.
+Aragorn wants to sell the The Great Ring for 18 gold.
+Aragorn withdrawn from sale The Great Ring for 6 gold.
+Elrond wants to sell the Cloak for 4 gold.
+Déagol wants to sell the Cloak for 20 gold.
+Bilbo Baggins wants to sell the Chocolate frog for 26 gold.
+Cho Chang wants to buy the Cloak. He buys Cloak from Elrond by 4 gold.
+Albus Dumbledore wants to buy the sword. He buys sword from Gandalf by 16 gold.
+Cho Chang wants to buy the Apple (poisoned). He can not buy Apple (poisoned).
+Bones Amelia wants to buy the Chocolate frog. He buys Chocolate frog from Bilbo Baggins by 26 gold.
+Albus Dumbledore wants to buy the sword. He buys sword from Gandalf by 16 gold.
